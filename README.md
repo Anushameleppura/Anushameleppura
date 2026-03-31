@@ -1,16 +1,39 @@
-## Hi there 👋
+# 📧 Email Spam Detection
 
-<!--
-**Anushameleppura/Anushameleppura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Problem Statement
 
-Here are some ideas to get you started:
+Classify emails as spam or ham using machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Dataset
+
+* Text-based email dataset
+* Preprocessed using NLP techniques
+
+## ⚙️ Technologies Used
+
+* Python, Pandas, NumPy
+* Scikit-learn
+* NLP (TF-IDF)
+
+## 🚀 Approach
+
+1. Data Cleaning
+2. Text Preprocessing
+3. Feature Extraction (TF-IDF)
+4. Model Training (Naive Bayes / Logistic Regression)
+
+## 📈 Results
+
+* Achieved high accuracy
+* Evaluated using confusion matrix
+
+## 📷 Output
+
+(Add screenshots here)
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
